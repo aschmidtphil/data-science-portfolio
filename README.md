@@ -18,10 +18,11 @@ Welcome to my Data Science portfolio! This repository contains a collection of p
 - Matplotlib, Seaborn, Plotly
 - SQL
 - Jupyter Notebooks
+ 
+ 
 
+#### About Me
 
-
-#### **About Me**
 I am a data science enthusiast actively developing my skills in data manipulation, machine learning, and data visualization. I am currently working through the IBM Data Science Professional Certificate and am excited to continue learning and applying my knowledge to real-world data problems.
 
 Feel free to check out the projects and reach out if you have any questions!
