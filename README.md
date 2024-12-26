@@ -50,10 +50,9 @@ Feel free to explore my projects and reach out if you have any questions or oppo
 ---
 
 ## 📫 Get in Touch
-- **Email**: [Your Email Address]
-- **LinkedIn**: [Your LinkedIn Profile]
-- **GitHub**: [Your GitHub Profile]
-
+- **Email**: aschmidtphil@gmail.com
+- **LinkedIn**: linkedin.com/in/alexander-schmidt
+- **GitHub**: github.com/aschmidtphil
 ---
 
 Thank you for visiting my portfolio!
