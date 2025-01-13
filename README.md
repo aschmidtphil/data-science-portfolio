@@ -22,8 +22,10 @@ Welcome to my **Data Science Portfolio**! This repository showcases a collection
 
 - Creating compelling visualizations with tools like Matplotlib, Seaborn, and Plotly.
   #### Example: **Schelling Word Cloud**
-  One of my favorite visualizations is a **Schelling Word Cloud**, created from my dissertation on philosophy. This word cloud demonstrates how I integrate my background in philosophy with my newly acquired Python skills. By processing the text and visualizing the frequency of key terms, I highlighted the core concepts of Schelling’s work in a visually engaging way.
+  One of my favorite visualizations is a Schelling Word Cloud, created from my dissertation on philosophy. <img src="https://github.com/aschmidtphil/data-science-portfolio/blob/main/high_res_schelling_wordcloud.png" alt="Schelling Word Cloud" width="600"/>*
 
+
+  This word cloud demonstrates how I integrate my background in philosophy with my newly acquired Python skills. By processing the text and visualizing the frequency of key terms, I highlighted the core concepts of Schelling’s work in a visually engaging way.
 
 
   This project underscores my ability to bridge interdisciplinary domains and apply data visualization techniques to communicate insights effectively.
