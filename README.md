@@ -1,6 +1,4 @@
-# Saving the provided markdown content to a .md file
-
-markdown_content = """# Data Science Portfolio
+# Data Science Portfolio
 
 Welcome to my **Data Science Portfolio**! This repository showcases a collection of projects and assignments completed as part of the **IBM Data Science Professional Certificate** on Coursera. These projects demonstrate my skills and expertise in various areas of data science, from data cleaning to machine learning.
 
@@ -71,11 +69,3 @@ Feel free to explore my projects and reach out if you have any questions or oppo
 ---
 
 Thank you for visiting my portfolio!
-"""
-
-# Saving the markdown content to a file
-file_path = "/mnt/data/Data_Science_Portfolio.md"
-with open(file_path, "w") as md_file:
-    md_file.write(markdown_content)
-
-file_path
