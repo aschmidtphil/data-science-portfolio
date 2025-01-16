@@ -17,6 +17,11 @@ Welcome to my **Data Science Portfolio**! This repository showcases a collection
 ### 3. **Machine Learning**
 
 - Building and evaluating predictive models using machine learning algorithms.
+  #### Example: **Machine Learning for Model Building and Evaluation**  
+  In this project, I build a Linear Regression model and then focus on developing and applying a variety of classification models, including Logistic Regression, K-Nearest Neighbors (KNN), Decision Trees, and Support Vector Machines (SVM). I evaluate the models' performances using different metrics.
+
+You can view the notebook [here](https://github.com/aschmidtphil/data-science-portfolio/blob/main/Machine_Learning_with_Python_FinalAssignment.ipynb).
+
 
 ### 4. **Data Visualization**
 
