@@ -89,7 +89,7 @@ Feel free to explore my projects and reach out if you have any questions or oppo
 
 ![Capstone Presentation Preview](https://github.com/aschmidtphil/data-science-portfolio/blob/main/data_science_capstone/capstone_presentation_preview.png)
 
-You can view the full presentation [here](https://github.com/aschmidtphil/data-science-portfolio/blob/main/data_science_capstone/_spacex-data-science-capstone.pdf).
+You can view the full presentation [here](https://github.com/aschmidtphil/data-science-portfolio/blob/main/spacex-data-science-capstone.pdf).
 
 ---
 
