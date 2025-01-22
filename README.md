@@ -2,6 +2,8 @@
 
 Welcome to my **Data Science Portfolio**! This repository showcases a collection of projects and assignments completed as part of the **IBM Data Science Professional Certificate** on Coursera. These projects demonstrate my skills and expertise in various areas of data science, from data cleaning to machine learning.
 
+Many of the notebooks, visualizations, and the final presentation in this repository are from the **Data Science Capstone Project**, where I was tasked with assisting the fictional company **SpaceY**, a direct competitor to SpaceX. The goal was to analyze SpaceX Rocket Launch Data to understand their cost and pricing strategy and develop a **Machine Learning Model** to predict whether future Falcon 9 flights will land successfully and allow the reuse of the rocket's first stage (the lower section containing the main engines)—a critical factor in reducing costs.
+
 ---
 
 ## 📂 Contents
